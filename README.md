@@ -18,4 +18,4 @@ Leave Zaynedrift Uncredited
 Use code for malicious purposes 
 
 
-Repository and Code created by [Zaynedrift](https://zaynedrift.replit.app/)
+Repository and Code created by [Zaynedrift](https://zaynedrift.com/)
